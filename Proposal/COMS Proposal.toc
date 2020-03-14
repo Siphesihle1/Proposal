@@ -1,0 +1,53 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}Scope}{1}
+\contentsline {subsection}{\numberline {1.2}Definitions and Conventions}{1}
+\contentsline {subsection}{\numberline {1.3}Overview}{1}
+\contentsline {section}{\numberline {2}Current Systems}{3}
+\contentsline {section}{\numberline {3}Proposed System}{4}
+\contentsline {subsection}{\numberline {3.1}Product Perspective and Functions and User Characteristics}{4}
+\contentsline {subsection}{\numberline {3.2}Constraints and Assumptions}{5}
+\contentsline {section}{\numberline {4}Requirements Elicitation}{6}
+\contentsline {section}{\numberline {5}Functional Requirements}{17}
+\contentsline {subsection}{\numberline {5.1}User Class}{17}
+\contentsline {subsubsection}{\numberline {5.1.1}Downloading the Application}{17}
+\contentsline {subsubsection}{\numberline {5.1.2}Registration}{17}
+\contentsline {subsubsection}{\numberline {5.1.3}Forgot Password}{18}
+\contentsline {subsubsection}{\numberline {5.1.4}Intuitive and Easy Navigation}{18}
+\contentsline {subsubsection}{\numberline {5.1.5}A Rich Experience}{18}
+\contentsline {subsubsection}{\numberline {5.1.6}Seamless Checkout}{18}
+\contentsline {subsubsection}{\numberline {5.1.7}Personalized Experiences}{18}
+\contentsline {subsubsection}{\numberline {5.1.8}Instant Query Results}{18}
+\contentsline {subsubsection}{\numberline {5.1.9}Real-Time Communication with university officials}{19}
+\contentsline {subsubsection}{\numberline {5.1.10}Viewing and Editing Account Information}{19}
+\contentsline {subsubsection}{\numberline {5.1.11}Receiving Notifications}{19}
+\contentsline {subsubsection}{\numberline {5.1.12}Building a Profile}{19}
+\contentsline {subsection}{\numberline {5.2}Administrative Class}{20}
+\contentsline {subsubsection}{\numberline {5.2.1}Admin Information device}{20}
+\contentsline {subsubsection}{\numberline {5.2.2}Admin receiver device}{20}
+\contentsline {subsubsection}{\numberline {5.2.3}DNS server log service}{20}
+\contentsline {subsubsection}{\numberline {5.2.4}Viewing the metrics of the website}{20}
+\contentsline {subsubsection}{\numberline {5.2.5}Unique login portal}{20}
+\contentsline {subsubsection}{\numberline {5.2.6}Dashboard}{20}
+\contentsline {section}{\numberline {6}Non-functional Requirements}{21}
+\contentsline {subsection}{\numberline {6.1}Reliability}{21}
+\contentsline {subsection}{\numberline {6.2}Performance}{21}
+\contentsline {subsection}{\numberline {6.3}Supportability}{22}
+\contentsline {subsection}{\numberline {6.4}Implementation}{23}
+\contentsline {subsection}{\numberline {6.5}Interface}{23}
+\contentsline {subsection}{\numberline {6.6}Legal}{23}
+\contentsline {section}{\numberline {7}System Models}{24}
+\contentsline {subsection}{\numberline {7.1}The user registration process}{24}
+\contentsline {subsection}{\numberline {7.2}The Login process}{27}
+\contentsline {subsection}{\numberline {7.3}The Forgot password process}{28}
+\contentsline {subsection}{\numberline {7.4}Inquiry process (starting from the Home Page)}{29}
+\contentsline {subsection}{\numberline {7.5}Page Navigation}{32}
+\contentsline {subsection}{\numberline {7.6}Viewing and Editing Account Information}{34}
+\contentsline {subsection}{\numberline {7.7}Checking Inbox}{36}
+\contentsline {subsection}{\numberline {7.8}Profile Creation}{37}
+\contentsline {subsubsection}{\numberline {7.8.1}Filling in Application Information}{37}
+\contentsline {subsubsection}{\numberline {7.8.2}Viewing Financial Aid Information}{42}
+\contentsline {subsubsection}{\numberline {7.8.3}Viewing and editing My Residences}{44}
+\contentsline {subsubsection}{\numberline {7.8.4}Viewing and Editing My Universities}{46}
+\contentsline {subsubsection}{\numberline {7.8.5}Viewing and Editing My Courses}{47}
+\contentsline {subsubsection}{\numberline {7.8.6}Viewing uploaded documents}{48}
+\contentsline {subsubsection}{\numberline {7.8.7}Uploading a document}{49}
